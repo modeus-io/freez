@@ -23,13 +23,13 @@ npm install -g freez
 **How to use it**
 ---
 
-**Command Line:**
+**Command Line**
 
 ```sh
 echo "Freeeeez" | freez
 ```
 
-**NodeJS:**
+**NodeJS**
 
 ```javascript
 const Freez = require('freez');
