@@ -1,0 +1,28 @@
+{
+  "name": "freez",
+  "version": "1.0.0",
+  "description": "Freeze streams to AWS S3 Glacier",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modeus-io/glacial.git"
+  },
+  "keywords": [
+    "AWS",
+    "S3",
+    "Glacier",
+    "Streams",
+    "NodeJS",
+    "Command",
+    "Line"
+  ],
+  "author": "Modeus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/modeus-io/glacial/issues"
+  },
+  "homepage": "https://github.com/modeus-io/glacial#readme"
+}
