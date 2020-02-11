@@ -1,26 +1,33 @@
 <p align="center">
   <a href="https://github.com/modeus-io/glacial">
-  <img width="200" src="assets/glacial-logo.png">
+    <img width="200" src="assets/glacial-logo.png">
   </a>
-  <div align="center" style="font-size:30px">Freez</div>
 </p>
+
+<h1 align="center">Freez</h1>
 
 <p align="center">Freez is a NodeJS library that reliably pipes a stream of bytes into an Amazon S3 Glacier vault</p>
 
 **Installation**
 ---
-```yarn install -g freez```
+```sh
+yarn install -g freez
+```
 
 or  
 
-```npm install -g freez```
+```sh
+npm install -g freez
+```
 
 **How to use it**
 ---
 
 **Command Line:**
 
-```echo "Freeeeez" | freez```
+```sh
+echo "Freeeeez" | freez
+```
 
 **NodeJS:**
 
